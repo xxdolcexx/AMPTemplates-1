@@ -1,0 +1,18 @@
+[
+    {
+        "UpdateStageName": "",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "CopyFilePath",
+        "UpdateSourceData": "F:\\AMPDatastore\\Instances\\myth of empires01",
+        "UpdateSourceArgs": "F:\\game servers\\myth of empires",
+        "UpdateSourceVersion": "",
+        "UpdateSourceTarget": "",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": true,
+        "ForceDownloadPlatform": null,
+        "UpdateSourceConditionSetting": null,
+        "UpdateSourceConditionValue": null,
+        "DeleteAfterExtract": false,
+        "OneShot": false
+    }
+]
