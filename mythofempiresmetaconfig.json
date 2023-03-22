@@ -1,6 +1,6 @@
 [
     {
-    "ConfigFile": "myth of empires\PrivateServerTool/ServerParamConfig_evi.ini",
+    "ConfigFile": "myth of empires\PrivateServerTool\ServerParamConfig_evi.ini",
     "AutoMap": true,
     "ConfigType": "ini"
     }
